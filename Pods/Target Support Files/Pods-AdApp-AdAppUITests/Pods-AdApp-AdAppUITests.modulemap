@@ -1,0 +1,6 @@
+framework module Pods_AdApp_AdAppUITests {
+  umbrella header "Pods-AdApp-AdAppUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
